@@ -1,4 +1,4 @@
-package com.potsane.samplelib;
+package com.potsane.log_util;
 
 import android.util.Log;
 
