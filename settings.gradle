@@ -1,3 +1,4 @@
+include ':error-util'
 include ':log-util'
 include ':app'
 rootProject.name = "SampleLib"
